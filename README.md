@@ -20,7 +20,6 @@ Welcome to **Aptos Victors**, the ultimate multiplayer online game where strateg
 
 Step into the future of gaming with Aptos Victors – an immersive, AR-powered endless runner that blends cutting-edge technology with thrilling gameplay.
 
-
 Experience a world where reality and gaming collide, as you collect, trade, and compete with unique NFTs.
 
 ## Installation
@@ -37,6 +36,9 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
 ## Updates
 
 ### Version 0.1
+    - Start Building the Core Game Components with Aptos Unity SDKs
+
+### Version 0.2
 
 - **Login and Dashboard Update**: We've streamlined the login process and enhanced the dashboard for a more intuitive user experience.
   - Introducing Google and social media login icons for a smoother authentication flow.
@@ -51,30 +53,19 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
 ### V1 Gameplay Video
 Watch the Version 1 gameplay experience right here:
 
-<video controls>
-  <source src="./Images/v1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+[V1 Gameplay Video](./Images/v1.mp4)
 
 ### Version 2 Teaser
 Check out what's coming in Version 2:
 
-<video controls>
-  <source src="./Images/v2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Version 2 Teaser](./Images/v2.mp4)
 
-Aptos Victors will be Moving to new Repo With This Update and All Tech Updates will and Issues will be Handled By this
+Aptos Victors will be Moving to a new repository with this update, and all technical updates and issues will be handled there.
 
 ### AR Pass Feature
 Explore the AR pass feature:
 
-<video controls>
-  <source src="./Images/pass.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[AR Pass Video](./Images/pass.webm)
 
 ## New Environments
 
@@ -95,6 +86,12 @@ See the environments below:
     <p align="center">City Environment</p>
   </div>
 </div>
+
+## New Home Page
+
+Check out our new home page design:
+
+![Home Page](./Images/home.png)
 
 ## Links
 
