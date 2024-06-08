@@ -8,22 +8,25 @@
 - [Features](#features)
 - [Updates](#updates)
 - [Media](#media)
+- [New Environments](#new-environments)
 - [Links](#links)
 - [Support](#support)
 
 ## Introduction
 
-Welcome to **Aptos Victors**, the ultimate multiplayer online game where strategy, skill, and teamwork lead you to victory. Dive into intense battles and experience the thrill of conquering challenges with your team. 
+Welcome to **Aptos Victors**, the ultimate multiplayer online game where strategy, skill, and teamwork lead you to victory. Dive into intense battles and experience the thrill of conquering challenges with your team.
 
 ## Gameplay
 
-Aptos Victors is a fast-paced, action-packed game where players engage in multiplayer battles. The game combines strategic planning with on-the-spot decision-making, offering a unique and exciting gaming experience.
+Step into the future of gaming with Aptos Victors – an immersive, AR-powered endless runner that blends cutting-edge technology with thrilling gameplay.
+
+
+Experience a world where reality and gaming collide, as you collect, trade, and compete with unique NFTs.
 
 ## Installation
 
-
 1. Visit our landing page at [aptosvictors.xyz](https://aptosvictors.xyz).
-2. We will be releasing Waitlist
+2. Sign up to join our waitlist to be notified about the game release.
 
 ## Features
 
@@ -33,18 +36,65 @@ Aptos Victors is a fast-paced, action-packed game where players engage in multip
 
 ## Updates
 
-### Version 1
+### Version 0.1
 
 - **Login and Dashboard Update**: We've streamlined the login process and enhanced the dashboard for a more intuitive user experience.
+  - Introducing Google and social media login icons for a smoother authentication flow.
 - **Updated URLs**:
   - Landing Page: [https://aptosvictors.xyz](https://aptosvictors.xyz)
   - Dashboard: [https://dashboard.aptosvictors.xyz](https://dashboard.aptosvictors.xyz)
 - **AR Pass Integration**: Access special content through [pass.aptosvictors.xyz](https://pass.aptosvictors.xyz).
+- **Building Gameplay Enhancements**: The latest update focuses on improving game-building mechanics.
 
 ## Media
 
-- **Gameplay Video**: Watch the V1 gameplay experience here - [V1 Gameplay (mp4)](./Images/v1.mp4).
-- **Pass Video**: Check out the AR pass feature here - [Pass Video (webm)](./Images/passes.webm).
+### V1 Gameplay Video
+Watch the Version 1 gameplay experience right here:
+
+<video controls>
+  <source src="./Images/v1.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+### Version 2 Teaser
+Check out what's coming in Version 2:
+
+<video controls>
+  <source src="./Images/v2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Aptos Victors will be Moving to new Repo With This Update and All Tech Updates will and Issues will be Handled By this
+
+### AR Pass Feature
+Explore the AR pass feature:
+
+<video controls>
+  <source src="./Images/pass.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+## New Environments
+
+We are excited to introduce two new environments in Aptos Victors:
+
+- **Nature Environment**
+- **City Environment**
+
+See the environments below:
+
+<div style="display: flex;">
+  <div style="margin-right: 20px;">
+    <img src="./Images/nature.png" alt="Nature Environment" width="300">
+    <p align="center">Nature Environment</p>
+  </div>
+  <div>
+    <img src="./Images/city.png" alt="City Environment" width="300">
+    <p align="center">City Environment</p>
+  </div>
+</div>
 
 ## Links
 
@@ -55,3 +105,7 @@ Aptos Victors is a fast-paced, action-packed game where players engage in multip
 ## Support
 
 For any issues or support, please contact our support team at support@aptosvictors.xyz or visit our [Support Page](https://support.aptosvictors.xyz).
+
+---
+
+Thank you for being a part of the Aptos Victors community. We look forward to seeing you in the game!
