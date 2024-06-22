@@ -48,6 +48,12 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
 - **AR Pass Integration**: Access special content through [pass.aptosvictors.xyz](https://pass.aptosvictors.xyz).
 - **Building Gameplay Enhancements**: The latest update focuses on improving game-building mechanics.
 
+### Version 0.2.1
+
+   - New 3D Models: Introduction of high-quality 3D models to enhance the visual experience.
+- Website Update: A complete overhaul of the aptosvictors.xyz website to improve navigation and user experience.
+        - Featuring new sections for gameplay tips, developer blogs, and community forums.
+
 ## Media
 
 ### V1 Gameplay Video
