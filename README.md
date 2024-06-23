@@ -54,7 +54,9 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
 - Website Update: A complete overhaul of the aptosvictors.xyz website to improve navigation and user experience.
         - Featuring new sections for gameplay tips, developer blogs, and community forums.
 - Petra Wallet login and google login
-- New Environment 
+- New Environment
+- [char 1](./Images/7.png)
+- [char 2](./Images/11.png)
   
 
 ## Media
