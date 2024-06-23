@@ -55,8 +55,16 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
         - Featuring new sections for gameplay tips, developer blogs, and community forums.
 - Petra Wallet login and google login
 - New Environment
-- [char 1](./Images/7.png)
-- [char 2](./Images/11.png)
+ <div style="display: flex;">
+  <div style="margin-right: 20px;">
+    <img src="./Images/7.png" alt="Nature Environment" width="300">
+    <p align="center">Rare Character</p>
+  </div>
+  <div>
+    <img src="./Images/11.png" alt="City Environment" width="300">
+    <p align="center">Future Character</p>
+  </div>
+</div>
   
 
 ## Media
