@@ -53,6 +53,9 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
    - New 3D Models: Introduction of high-quality 3D models to enhance the visual experience.
 - Website Update: A complete overhaul of the aptosvictors.xyz website to improve navigation and user experience.
         - Featuring new sections for gameplay tips, developer blogs, and community forums.
+- Petra Wallet login and google login
+- New Environment 
+  
 
 ## Media
 
