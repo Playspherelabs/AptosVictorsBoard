@@ -70,20 +70,12 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
 
 - Adding Characters of Partner In Game
 
-<div style="display: flex;">
-  <div style="margin-right: 20px;">
-    <img src="./Images/AMNIS1.png" alt="AMNIS1" width="300">
-    <p align="center">AMNIS1</p>
-  </div>
-  <div style="margin-right: 20px;">
-    <img src="./Images/ZAAPTOS1.png" alt="ZAAPTOS1" width="300">
-    <p align="center">ZAAPTOS1</p>
-  </div>
-  <div>
-    <img src="./Images/ROBOS(FOUNDER_V1).png" alt="ROBOS(FOUNDER_V1)" width="300">
-    <p align="center">ROBOS (FOUNDER_V1)</p>
-  </div>
-</div>
+
+<p align="center">
+  <img src="./Images/AMNIS1.png" alt="AMNIS1" width="300" style="margin-right: 20px;">
+  <img src="./Images/ZAAPTOS1.png" alt="ZAAPTOS1" width="300" style="margin-right: 20px;">
+  <img src="./Images/ROBOS(FOUNDER_V1).png" alt="ROBOS(FOUNDER_V1)" width="300">
+</p>
 
 ## Media
 
