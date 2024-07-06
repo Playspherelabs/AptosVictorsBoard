@@ -77,6 +77,10 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
   <img src="./Images/ROBOS(FOUNDER_V1).png" alt="ROBOS(FOUNDER_V1)" width="300">
 </p>
 
+- Website Update on https://aptosvictors.xyz
+- Update on pass and dashboard at https://dashboard.aptosvictors.xyz
+- https://pass.aptosvictors.xyz
+
 ## Media
 
 ### V1 Gameplay Video
