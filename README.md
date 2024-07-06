@@ -66,6 +66,10 @@ Experience a world where reality and gaming collide, as you collect, trade, and 
   </div>
 </div>
   
+### Version 0.2.2
+
+- Adding Characters of Partner In Game
+  
 
 ## Media
 
